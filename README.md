@@ -1,1 +1,2 @@
-# holbertonschool-sorting_algorithms
+Readme of holbertonschool-sorting_algorithms project
+
