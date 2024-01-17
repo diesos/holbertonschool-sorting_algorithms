@@ -5,6 +5,4 @@
 # Unignore all dirs
 !*/
 *-main.c
-*_array.c
-*nt_list.c
 /.devcontainer
