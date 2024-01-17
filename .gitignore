@@ -6,5 +6,5 @@
 !*/
 *-main.c
 *_array.c
-*_list.c
+*nt_list.c
 /.devcontainer
