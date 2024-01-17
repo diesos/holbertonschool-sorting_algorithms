@@ -2,7 +2,10 @@
 *
 # Unignore all with extensions
 !*.*
+!1-O
+!0-O
 # Unignore all dirs
 !*/
+
 *-main.c
 /.devcontainer
