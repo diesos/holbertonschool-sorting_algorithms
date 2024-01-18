@@ -7,12 +7,12 @@
  * Return: void
  */
 
-void	insertion_sort_list(listint_t **list)
+void insertion_sort_list(listint_t **list)
 {
 	listint_t *current, *next_node;
 
 	if (!list || !*list || !(*list)->next)
-		return (0);
+		return;
 	current = (*list)->next;
 	while (current)
 	{
